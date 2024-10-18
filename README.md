@@ -29,6 +29,5 @@ First, clone the `cat.nvim` repository into your Neovim configuration folder:
 
 ```bash
 git clone https://github.com/devheadset/cat.nvim ~/.config/nvim
-
-
+nvim
 
