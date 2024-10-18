@@ -19,7 +19,7 @@ To install **cat.nvim**, you need to have [Neovim](https://neovim.io) version 0.
 ### Prerequisites
 
 - **Neovim 0.5+**: Ensure that Neovim is installed and up to date.
-  - [Install Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
+  - [Install Neovim](https://github.com/neovim/neovim/)
 - **Git**: Make sure you have Git installed.
 - **Nerd Fonts**: Install a [Nerd Font](https://www.nerdfonts.com/) for a better terminal experience.
 
