@@ -2,6 +2,10 @@
 
 **cat.nvim** is a highly customizable, minimalistic Neovim configuration designed to enhance your coding experience. Built for speed and simplicity, it aims to provide a solid development environment while remaining lightweight and fast. Currently, **cat.nvim** is in its alpha stage, so expect frequent updates and changes.
 
+## Themes
+
+If you want more themes add a PR, or a issue for requesting them.
+
 ## 🚧 Alpha Status 🚧
 
 **Important:** This project is currently in its alpha phase, meaning it is still under active development. Expect frequent breaking changes, updates, and improvements. Please report any issues you find!
@@ -23,9 +27,8 @@ To install **cat.nvim**, you need to have [Neovim](https://neovim.io) version 0.
 - **Git**: Make sure you have Git installed.
 - **Nerd Fonts**: Install a [Nerd Font](https://www.nerdfonts.com/) for a better terminal experience.
 
-### 1. Clone the Repository
+### Install
 
-First, clone the `cat.nvim` repository into your Neovim configuration folder:
 
 ```bash
 git clone https://github.com/devheadset/cat.nvim ~/.config/nvim
