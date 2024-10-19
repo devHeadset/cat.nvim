@@ -10,6 +10,10 @@ If you want more themes add a PR, or a issue for requesting them.
 
 **Important:** This project is currently in its alpha phase, meaning it is still under active development. Expect frequent breaking changes, updates, and improvements. Please report any issues you find!
 
+## ⚠️ Issues
+- Some features on the dashboard are currently broken.
+
+
 ## ✨ Features
 
 - Fast and minimal startup time
@@ -33,4 +37,5 @@ To install **cat.nvim**, you need to have [Neovim](https://neovim.io) version 0.
 ```bash
 git clone https://github.com/devheadset/cat.nvim ~/.config/nvim
 nvim
+
 
