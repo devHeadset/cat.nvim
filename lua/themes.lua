@@ -7,6 +7,7 @@ local themes = {
   "everforest",   -- Everforest theme
   "dracula",      -- Dracula theme
   "kanagawa",     -- Kanagawa Theme
+  "rose-pine",    -- Rose Pine Theme
 }
 
 return themes

@@ -21,6 +21,12 @@ return {
 
   {
     "rebelot/kanagawa.nvim"
+
+  },
+
+  {
+    "rose-pine/neovim",   -- Rose Pine theme added
+    as = "rose-pine"
   },
 
   {
