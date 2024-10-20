@@ -18,6 +18,11 @@ return {
   {
     "Mofiqul/dracula.nvim"
   },
+
+  {
+    "rebelot/kanagawa.nvim"
+  },
+
   {
     "zaldih/themery.nvim",
     config = function()

@@ -6,6 +6,7 @@ local themes = {
   "nord",         -- Nord theme
   "everforest",   -- Everforest theme
   "dracula",      -- Dracula theme
+  "kanagawa",     -- Kanagawa Theme
 }
 
 return themes
